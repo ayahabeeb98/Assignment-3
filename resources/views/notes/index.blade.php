@@ -18,7 +18,7 @@
                 <div class="portlet-title">
                     <div class="caption">
                         <i class="fa fa-sticky-note font-green"></i>
-                        <span class="caption-subject bold font-green uppercase">User Profile</span>
+                        <span class="caption-subject bold font-green uppercase">ALL Notes</span>
                     </div>
                     <div class="actions">
                         <a href="{{route('note.create')}}" class="btn btn-circle blue-steel btn-outline">
